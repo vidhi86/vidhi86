@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA,REACT.JS,JS**
 
-- 📫 How to reach me **vidhi98sharma@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
