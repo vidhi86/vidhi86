@@ -9,21 +9,11 @@
 
 - 🌱 I’m currently learning **REACT.JS,DSA**
 
-- 💬 Ask me about **DSA,REACT.JS,JS**
-
-<h1 align="center">Hi 👋, I'm Vidhi Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi86&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi86" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhi86" alt="vidhi86" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://vidhi86.github.io](https://vidhi86.github.io)
 
+- 💬 Ask me about **DSA,REACT.JS,JS**
 
-- 📫 How to reach me **<a href="https://vidhi86.github.io/" target="blank">Portfolio.github.io</a> **
+- 📫 How to reach me **vidhi98sharma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhi86&show_icons=true&locale=en" alt="vidhi86" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhi86&" alt="vidhi86" /></p>
-
