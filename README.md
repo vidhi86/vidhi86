@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **REACT.JS,DSA**
 
-- 👨‍💻 All of my projects are available at [https://vidhi86.github.io](https://vidhi86.github.io)
-
 - 💬 Ask me about **DSA,REACT.JS,JS**
 
 <h1 align="center">Hi 👋, I'm Vidhi Sharma</h1>
@@ -22,11 +20,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **REACT.JS,DSA**
-
 - 👨‍💻 All of my projects are available at [https://vidhi86.github.io](https://vidhi86.github.io)
 
-- 💬 Ask me about **DSA,REACT.JS,JS**
 
 - 📫 How to reach me **<a href="https://vidhi86.github.io/" target="blank">Portfolio.github.io</a> **
 
